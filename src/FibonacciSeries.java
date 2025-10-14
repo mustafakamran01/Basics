@@ -9,8 +9,11 @@ public class FibonacciSeries {
         int length = scanner.nextInt();
 
         if(length < 3){
+
             System.out.println("Enter number greater than 2");
+
         } else {
+
             int num1 = 0;
             int num2 = 1;
 
