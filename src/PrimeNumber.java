@@ -11,10 +11,8 @@ public class PrimeNumber {
         int count = 0;
 
         if(num < 0){
-
             System.out.println("Given number is negative");
         } else if (num <= 3) {
-
             System.out.println("Please give number more than 3");
         } else {
 

@@ -11,7 +11,7 @@ public class Factorial {
 
         int fact = 1;
 
-        // Checking if inout is greater than 0 or not
+        // Checking if input is greater than 0 or not
         if(num <= 0){
             System.out.println("Please give number more than O");
         } else{
